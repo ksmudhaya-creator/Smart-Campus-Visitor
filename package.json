@@ -1,0 +1,22 @@
+{
+  "name": "smart-campus-visitor-system",
+  "version": "1.0.0",
+  "description": "Smart Campus Visitor Entry and Exit State Tracking System with Finite State Machine (FSM) Engine",
+  "scripts": {
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "seed": "cd backend && npm run seed",
+    "build:frontend": "cd frontend && npm run build"
+  },
+  "keywords": [
+    "mern",
+    "fsm",
+    "finite-state-machine",
+    "campus-visitor",
+    "react",
+    "express",
+    "mongodb"
+  ],
+  "author": "Smart Campus System",
+  "license": "ISC"
+}
